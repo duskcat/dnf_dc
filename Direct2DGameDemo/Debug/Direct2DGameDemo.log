@@ -1,0 +1,18 @@
+﻿  Role.cpp
+  d:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+h:\c++\direct2dgamedemo\direct2dgamedemo\macrofunc.h(8): warning C4244: “=”: 从“DWORD”转换到“float”，可能丢失数据
+h:\c++\direct2dgamedemo\direct2dgamedemo\animation.h(48): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+h:\c++\direct2dgamedemo\direct2dgamedemo\animation.h(49): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+h:\c++\direct2dgamedemo\direct2dgamedemo\monster.h(58): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+h:\c++\direct2dgamedemo\direct2dgamedemo\monster.h(59): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+h:\c++\direct2dgamedemo\direct2dgamedemo\role.cpp(22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+h:\c++\direct2dgamedemo\direct2dgamedemo\role.cpp(119): warning C4244: “=”: 从“DWORD”转换到“float”，可能丢失数据
+h:\c++\direct2dgamedemo\direct2dgamedemo\role.cpp(135): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+h:\c++\direct2dgamedemo\direct2dgamedemo\role.cpp(237): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+h:\c++\direct2dgamedemo\direct2dgamedemo\role.cpp(238): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+h:\c++\direct2dgamedemo\direct2dgamedemo\role.cpp(246): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+h:\c++\direct2dgamedemo\direct2dgamedemo\role.cpp(250): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+h:\c++\direct2dgamedemo\direct2dgamedemo\role.cpp(276): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+h:\c++\direct2dgamedemo\direct2dgamedemo\role.cpp(278): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+h:\c++\direct2dgamedemo\direct2dgamedemo\role.cpp(292): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+  Direct2DGameDemo.vcxproj -> H:\C++\Direct2DGameDemo\Debug\Direct2DGameDemo.exe
